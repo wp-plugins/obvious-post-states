@@ -1,9 +1,10 @@
 === Obvious Post States ===
 Contributors: ryansommers
+Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LD5WYPVG8AJW4
 Tags: post state, drafts, pending, sticky, password protected, ryan sommers.
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +38,9 @@ The post state text (draft, pending, etc) will be moved to the beginning of the 
 
 == Changelog ==
 
+= 1.0.2 =
+* Fixed a bug regarding hidden post titles for Subscriber roles.
+
 = 1.0.1 =
 * Added compatibility with the Slate admin theme plugin.
 
@@ -45,5 +49,5 @@ The post state text (draft, pending, etc) will be moved to the beginning of the 
 
 == Upgrade Notice ==
 
-= 1.0.1 =
-* Added compatibility with the Slate admin theme plugin.
+= 1.0.2 =
+* Fixed a bug regarding hidden post titles for Subscriber roles.
